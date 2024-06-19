@@ -48,7 +48,7 @@
               Sean McCarthy
             </h1>
             <h2 class="subtitle">
-              Azure Architect New York, NY
+              Microsoft Azure Engineer New York, NY
             </h2>
             <p>
               <a href="docs/resume.txt" class="icon has-text-light">
@@ -65,11 +65,7 @@
     <div class="container">
       <h1 class="title">About Me</h1>
       <hr>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-        magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
-        laborum.</p>
+      <p>.</p>
     </div>
   </section>
   <section class="section">
@@ -92,9 +88,9 @@
           <div class="content">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.</p>
             <ul>
-              <li>Noteworthy achievment here.</li>
-              <li>Noteworthy achievment here.</li>
-              <li>Noteworthy achievment here.</li>
+              <li>Noteworthy achievement here.</li>
+              <li>Noteworthy achievement here.</li>
+              <li>Noteworthy achievement here.</li>
             </ul>
             <div class="tags">
               <span class="tag">c#</span>
