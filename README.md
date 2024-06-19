@@ -1,9 +1,7 @@
 <html lang="en"><head>
-  <title>devfolio</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="favicon.png" type="image/x-icon">
   <link rel="stylesheet" href="css/main.bundle.css">
-  <script src="https://kit.fontawesome.com/4e5a72c756.js"></script><style media="all" id="fa-v4-font-face">/*!
 <body data-new-gr-c-s-check-loaded="14.1182.0" data-gr-ext-installed="">
   <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
@@ -47,7 +45,7 @@
         <div class="columns has-text-centered">
           <div class="column">
             <h1 class="title is-1">
-              Mark Macneil
+              Sean McCarthy
             </h1>
             <h2 class="subtitle">
               FullStack .NET Dev, Halifax, NS
