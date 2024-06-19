@@ -48,7 +48,7 @@
               Sean McCarthy
             </h1>
             <h2 class="subtitle">
-              FullStack .NET Dev, Halifax, NS
+              Azure Architect New York, NY
             </h2>
             <p>
               <a href="docs/resume.txt" class="icon has-text-light">
