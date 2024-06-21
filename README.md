@@ -6,12 +6,12 @@
   <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <div class="navbar-item is-hidden-desktop">
-        <a href="https://github.com/mmacneil" class="icon is-large has-text-light">
+        <a href="https://github.com/SeanM1024/" class="icon is-large has-text-light">
           <i class="fab fa-2x fa-github" aria-hidden="true"></i>
         </a>
       </div>
       <div class="navbar-item is-hidden-desktop">
-        <a href="https://fullstackmark.com" class="icon is-large has-text-light">
+        <a href="" class="icon is-large has-text-light">
           <i class="fas fa-2x fa-globe" aria-hidden="true"></i>
         </a>
       </div>
@@ -19,12 +19,12 @@
     <div class="navbar-menu">
       <div class="navbar-end">
         <div class="navbar-item">
-          <a href="https://github.com/mmacneil" class="icon is-large has-text-light">
+          <a href="https://github.com/SeanM1024/" class="icon is-large has-text-light">
             <i class="fab fa-2x fa-github" aria-hidden="true"></i>
           </a>
         </div>
         <div class="navbar-item">
-          <a href="https://fullstackmark.com" class="icon is-large has-text-light">
+          <a href="" class="icon is-large has-text-light">
             <i class="fas fa-2x fa-globe" aria-hidden="true"></i>
           </a>
         </div>
@@ -250,34 +250,34 @@
       <nav class="level">
         <div class="level-item has-text-centered">
           <div>
-            <a href="https://github.com/mmacneil" class="icon is-large">
+            <a href="https://github.com/SeanM1024/" class="icon is-large">
               <i class="fab fa-2x fa-github" aria-hidden="true"></i>
             </a>
-            <p class="heading"><a href="https://github.com/mmacneil">github.com/mmacneil</a></p>
+            <p class="heading"><a href="https://github.com/SeanM1024/">https://github.com/SeanM1024/</a></p>
           </div>
         </div>
         <div class="level-item has-text-centered">
           <div>
-            <a href="https://fullstackmark.com" class="icon is-large">
+            <a href="" class="icon is-large">
               <i class="fas fa-2x fa-globe" aria-hidden="true"></i>
             </a>
-            <p class="heading"><a href="https://fullstackmark.com">fullstackmark.com</a></p>
+            <p class="heading"><a href=""></a></p>
           </div>
         </div>
         <div class="level-item has-text-centered">
           <div>
-            <a href="mailto:markmacneil@gmail.com" class="icon is-large">
+            <a href="mailto:sean.mccarthy1024@gmail.com" class="icon is-large">
               <i class="fas fa-2x fa-envelope" aria-hidden="true"></i>
             </a>
-            <p class="heading"><a href="mailto:markmacneil@gmail.com">markmacneil@gmail.com</a></p>
+            <p class="heading"><a href="sean.mccarthy1024@gmail.com">Sean McCarthy</a></p>
           </div>
         </div>
         <div class="level-item has-text-centered">
           <div>
-            <a href="https://www.linkedin.com/in/markmacneilhfx" class="icon is-large">
+            <a href="(https://www.linkedin.com/in/sean-mccarthy-107a07164/)" class="icon is-large">
               <i class="fab fa-2x fa-linkedin-in" aria-hidden="true"></i>
             </a>
-            <p class="heading"><a href="https://www.linkedin.com/in/markmacneilhfx">linkedin</a></p>
+            <p class="heading"><a href="(https://www.linkedin.com/in/sean-mccarthy-107a07164/)">linkedin</a></p>
           </div>
         </div>
       </nav>
@@ -542,7 +542,7 @@
   <footer class="footer">
     <div class="content has-text-centered">
       <p>
-        <a href="https://github.com/mmacneil/devfolio" target="_blank" class="icon has-text-primary">
+        <a href="https://github.com/SeanM1024/" target="_blank" class="icon has-text-primary">
           <i class="fab fa-github" aria-hidden="true"></i> <strong>devfolio</strong></a>
       </p>
     </div>
